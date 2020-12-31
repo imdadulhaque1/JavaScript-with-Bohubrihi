@@ -3,10 +3,10 @@
 
 class Person{
     constructor(fname,lname,birthday,fashion){
-        this.fname = fname;
-        this.lname = lname;
-        this.birthday = birthday;
-        this.fashion = fashion;
+        this.f_name = fname;
+        this.l_name = lname;
+        this.dob= birthday;
+        this.f= fashion;
     }
     calculateAge(){
         let birthday=new Date(this.dob);
@@ -16,7 +16,7 @@ class Person{
     }
 
     fullname(){
-        console.log(this.first_name, this.last_name);
+        console.log(this.f_name, this.l_name);
     }
 }
 
