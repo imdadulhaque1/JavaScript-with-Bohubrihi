@@ -1,0 +1,8 @@
+{
+    "persons":[
+        {"name":"Imdadul Haque",  "age":23, "hometown":"Sirajganj", "married":false},
+        {"name":"Israt Jahan Maisha",  "age":2, "hometown":"Sirajganj", "married":false},
+        {"name":"Enamul Haque",  "age":27, "hometown":"Sirajganj", "married":true},
+        {"name":"Shampa Khatun",  "age":18, "hometown":"Sirajganj", "married":false}
+    ]
+}
